@@ -1,4 +1,4 @@
-The profolio website: https://www.suvarnapanalyticsportfolio.ml/
+The profolio website: https://suvarnadalin.github.io/SuvarnaAnalyticsPortfolio.github.io/
 
 
-Contains Python, SQL and PowerBI projects.
+Contains Python, SQL, PowerBI and Excel projects.
